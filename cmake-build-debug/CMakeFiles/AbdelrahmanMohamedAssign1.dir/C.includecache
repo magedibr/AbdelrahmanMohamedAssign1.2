@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/ab/Documents/AbdelrahmanMohamedAssign1/implementation.c
+stdio.h
+-
+validate.h
+/Users/ab/Documents/AbdelrahmanMohamedAssign1/validate.h
+
+/Users/ab/Documents/AbdelrahmanMohamedAssign1/main.c
+stdio.h
+-
+stdlib.h
+-
+stdio.h
+-
+validate.h
+/Users/ab/Documents/AbdelrahmanMohamedAssign1/validate.h
+time.h
+-
+
+/Users/ab/Documents/AbdelrahmanMohamedAssign1/validate.h
+
